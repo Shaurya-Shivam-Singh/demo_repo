@@ -1,3 +1,4 @@
 # demo_repo
 My first Git Repository.
-Author_Shaurya Shivam Singh
+<br>
+Author-Shaurya Shivam Singh
